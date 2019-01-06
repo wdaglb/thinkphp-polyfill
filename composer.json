@@ -6,6 +6,9 @@
             "email": "1207877378@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"ke\\": "src/"}
+    },
     "require": {},
     "require-dev":  {
         "topthink/framework": "*"
